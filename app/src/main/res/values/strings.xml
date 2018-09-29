@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labwork one</string>
+    <string name="phoneLabel">Phone:</string>
+    <string name="emailLabel">E-mail:</string>
+    <string name="adressLabel">Adress:</string>
+    <string name="aboutLabel">About</string>
+</resources>
